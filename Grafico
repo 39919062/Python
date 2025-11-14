@@ -46,7 +46,7 @@ plt.legend(["Uno","Dos"])
 #'H'	Hexágono 2
 #'+'	Cruz
 #'x'	X
-
+#.
 #Ejemplo de como combinar todo en una sola cadena
 # plt.plot(x, y, 'r--o')
 # Rojo, línea discontinua, círculos
