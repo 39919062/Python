@@ -30,7 +30,7 @@ M = S_nueva + H_nueva
 np.set_printoptions(precision=2)
 print("Matriz Black Friday")
 print(M)
-print()
+print(zdvzdzvd)
 
 # Respuesta 4
 print(f"El elemento T24 es: {T[1,3]} y representa el total del producto P2 en la zona oeste.")
