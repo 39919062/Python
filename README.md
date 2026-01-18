@@ -1,2 +1,2 @@
 # Python
-Repositorio con scripts SQL y PL/SQL para Oracle Database, desarrollados con fines académicos y de práctica.
+Repositorio con scripts y ejercicios desarrollados en Python, con fines académicos y de práctica.
